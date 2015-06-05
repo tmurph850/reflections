@@ -1,4 +1,10 @@
 1*What happens when you initialize a repository? Why do you need to do it?
 
 . When you initialize a repository you will recieve a message telling you that an empty git repository has been initialized in the directory location,
-  You always need to initialize a repository so you are able to utilize the benefits of git in your directory.
+  you always need to initialize a repository so you are able to utilize the benefits of git in your directory.
+
+2*How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+.The staging area is different from the working directory and the repository, It is an area where you can see which files
+are going to be saved in your next commit. The repository is the collection of files within your working directory which you have
+chosen to be linked together, the working directory is the location where all these files, even the ones you do not have linked are located.
