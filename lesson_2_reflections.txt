@@ -1,0 +1,4 @@
+1*What happens when you initialize a repository? Why do you need to do it?
+
+. When you initialize a repository you will recieve a message telling you that an empty git repository has been initialized in the directory location,
+  You always need to initialize a repository so you are able to utilize the benefits of git in your directory.
