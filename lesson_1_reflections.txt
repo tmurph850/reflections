@@ -1,31 +1,29 @@
-1*How did viewing a diff between two versions of a file help you see the bug that was introduced?
+1.How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-.They were easily comparable!
+	They were easily comparable!
 
-2*How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+2.How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-.Access to the entire history of a file could prove very useful in many ways, for the purpose of debugging the whole history of a file
-would allow you to see changes in code that may have affected your program in a negative way.
+	Access to the entire history of a file could prove very useful in many ways, for the purpose of debugging the whole history of a file
+	would allow you to see changes in code that may have affected your program in a negative way.
 
-3*What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+3.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
-.Git has an awful lot of pros on my opinion, I would say that it is much more convenient to save your own commits than it would be to have your version control
-auto-save for you, on the other hand if you were to have a power failure or something of that nature the manual save does have a down fall.
+	Git has an awful lot of pros on my opinion, I would say that it is much more convenient to save your own commits than it would be to have your version control
+	auto-save for you, on the other hand if you were to have a power failure or something of that nature the manual save does have a down fall.
 
-4*Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-.Git allows the saving of multiple files in one commit because of the way different languages work together, Google Docs and other similar types of version control
-treat each file seperately most likely because they are not meant for use with programming languages.
+	Git allows the saving of multiple files in one commit because of the way different languages work together, Google Docs and other similar types of version control treat each file seperately most likely because they are not meant for use with programming languages.
 
-5*How can you use the commands git log and git diff to view the history of files?
+5.How can you use the commands git log and git diff to view the history of files?
 
-.git log allows you to see a list of recent commits along with an id for each commit, you can use git diff to compare these id's and see what changes have been made
-between the two.
+	git log allows you to see a list of recent commits along with an id for each commit, you can use git diff to compare these id's and see what changes have been made between the two.
 
-6*How might using version control make you more confident to make changes that could break something?
+6.How might using version control make you more confident to make changes that could break something?
 
-.Version control makes it sooooo easy to spot and fix problems in your code!
+	Version control makes it sooooo easy to spot and fix problems in your code!
 
-7*Now that you have your workspace set up, what do you want to try using Git for?
+7.Now that you have your workspace set up, what do you want to try using Git for?
 
-.I would like to try and use Git to help me reduce the endless number of copied files i've saved with slightly different names, or at least as a method for preventing further "I'm scared to change you" saves.
+	I would like to try and use Git to help me reduce the endless number of copied files i've saved with slightly different names, or at least as a method for preventing further "I'm scared to change you" saves.
